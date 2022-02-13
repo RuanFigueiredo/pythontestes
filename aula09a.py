@@ -19,7 +19,7 @@ print(frase.count('o'))"""
 """frase = 'curso em videos pythonzera'
 print(len(frase))"""
 
-#continua em outro repositório de exercícios.
+"""continua em outro repositório de exercícios."""
 
 
 
